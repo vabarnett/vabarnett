@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vabarnett
 - 👀 I’m interested in how technology can make the world a better, more interesting place
-- 🌱 I’m currently studying as part of the TechUP Developer SKills Bootcamp
+- 🌱 I’m currently studying as part of the TechUP Developer Skills Bootcamp
 - 💞️ I’m looking to collaborate on fun learning projects
 - 📫 How to reach me 
 
