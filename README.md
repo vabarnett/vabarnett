@@ -1,6 +1,6 @@
-- Hi, I’m @vabarnett
+- Hi, I’m Vicky
 - I’m interested in how technology can make the world a better, more interesting place
-- Currently working at Compare the Market
+- Currently working as a Junior Cloud Engineer at Compare the Market
 
 
 <!---
